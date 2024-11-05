@@ -3,6 +3,9 @@
 |----|---|-----|------|
 |Muhammad Arif Mulyanto|312310395|TI.23.A5|Pemograman Web|
 
+# Menambahkan Data Navbar
+![Navbar](https://github.com/user-attachments/assets/9018fc0e-7600-4f6e-9b82-01233932eca9)
+
 # Hasil Output Home 
 ![Home](https://github.com/user-attachments/assets/afcbe128-ac2d-4660-af8f-f7ee73480a8e)
 
