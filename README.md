@@ -12,4 +12,9 @@
 # Hasil Output Contact
 ![contact](https://github.com/user-attachments/assets/921947c5-0f50-4207-bda2-216b990d4f88)
 
-## Hasil Output Belajar ##
+# Hasil Output Belajar #
+## Hasil Output Datatables ##
+![Datatables](https://github.com/user-attachments/assets/a99b27a0-3ebd-4c21-ae05-02263bd6177b)
+
+## Hasil Output Form ##
+![form](https://github.com/user-attachments/assets/1e74fc15-5468-41b6-9842-0758228fc337)
